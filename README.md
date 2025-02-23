@@ -23,4 +23,4 @@ This project is applicable to archaeological research, assisting archaeologists 
 ## Running Steps
 1. Unzip to the same directory.
 2. Use MATLAB, set the path to the "Codes" folder, and add all subfolders to the path.
-3. Simply run the files Final_123.mlx, Final_4.mlx, Final_5.mlx, Final_6.mlx, Final_7.mlx, and Final_8.mlx.
+3. Simply run the files `Final_123.mlx`, `Final_4.mlx`, `Final_5.mlx`, `Final_6.mlx`, `Final_7.mlx`, and `Final_8.mlx`.
