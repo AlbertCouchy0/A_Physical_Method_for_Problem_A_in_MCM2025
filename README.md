@@ -1,4 +1,4 @@
-# A Physical Model for Problem A in MCM2025
+# A Physical Method for Problem A in MCM2025
 
 ## Projiect Description
 
